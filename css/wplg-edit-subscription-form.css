@@ -1,0 +1,68 @@
+#wplg-edit-page-section-titles {
+    width: 200px;
+    float: left;
+    background-color:  #23282d;
+    margin-top: 0;
+}
+
+#wplg-edit-page-section-titles li {
+    padding: 8px 0;
+    border-bottom: 1px solid #eee;
+    height: 20px;
+    margin: 0 auto;
+    /* Color for the icon*/
+    color: #72777c;
+}
+
+#wplg-edit-page-section-titles span {
+    /* Color for text */
+    color: #eee;
+}
+
+#wplg-edit-page-section-titles li:hover, #wplg-edit-page-section-titles li:hover > span {
+    color: #00b9eb;
+    background-color: #191e23; 
+}
+
+
+
+.wplg-edit-page-selected::after {
+    content: "";
+    float: right;
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-width: 10px 14px 10px 0;
+    border-color: transparent white transparent transparent;
+}
+
+
+#wplg-edit-subscription-container {
+    border: 1px solid  #e5e5e5;
+    background: white;
+    max-width: 700px;
+}
+
+#wplg-edit-page-section-containers {
+    margin-left: 210px;
+    margin-bottom: 15px;
+    min-height: 170px;
+}
+/* The class is used for subscription status, which cannot be a paragraph as the content would break it */
+#wplg-edit-page-section-containers p, .wplg-edit-subscription-entry {
+    height:  36px;
+    border-bottom: 1px solid #e5e5e5;
+    margin: 0;
+    margin-right: 20px;
+    line-height: 36px;
+}
+
+#wplg-edit-page-section-containers button { display: block; }
+
+
+/* Modify the standard appearance of the button to make it fit the grid*/
+#wplg-edit-subscription-container .wplg-subscription-button {
+    display: inline-block !important;
+    height: 20px;
+    line-height: 20px;
+}

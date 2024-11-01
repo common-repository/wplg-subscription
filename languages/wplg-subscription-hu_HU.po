@@ -1,0 +1,448 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPLG – Subscription\n"
+"POT-Creation-Date: 2016-05-23 13:22+0100\n"
+"PO-Revision-Date: 2016-05-23 16:21+0100\n"
+"Last-Translator: Tamas Dukai <dtommy79@gmail.com>\n"
+"Language-Team: \n"
+"Language: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ye-subscription.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: class-wc-product-wplg-subscription.php:44
+msgid "Day"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:45
+msgid "Week"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:46
+msgid "Month"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:47
+msgid "Year"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:51
+msgid "Days"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:52
+msgid "Weeks"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:53
+msgid "Months"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:54
+msgid "Years"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:69
+msgid "Year(s)"
+msgstr "Év"
+
+#: class-wc-product-wplg-subscription.php:70
+msgid "Day(s)"
+msgstr "Nap"
+
+#: class-wc-product-wplg-subscription.php:71
+msgid "Week(s)"
+msgstr "Hét"
+
+#: class-wc-product-wplg-subscription.php:72
+msgid "Month(s)"
+msgstr "Hónap"
+
+#: class-wc-product-wplg-subscription.php:94
+#, php-format
+msgid "%2$s%1$01.2f"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:110
+#, php-format
+msgid "%2$s%1$01.2f / %4$s"
+msgid_plural "%2$s%1$01.2f / %3$d %4$s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-wc-product-wplg-subscription.php:118
+#, php-format
+msgid "%1$s%2$01.2f"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:131
+#, php-format
+msgid "%1$s then %2$s"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:147
+#, php-format
+msgid "%1$s %2$d %3$s license renewal"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:440 wplg-subscription.php:192
+#: wplg-subscription.php:214
+msgid "Expired"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:463
+msgid "File not available"
+msgstr ""
+
+#: class-wc-product-wplg-subscription.php:465
+msgid "Download"
+msgstr "Letölt"
+
+#: class-wc-product-wplg-subscription.php:475
+msgid "Renew"
+msgstr "Megújít"
+
+#: class-wplg-subscription-list-table.php:31 wplg-subscription.php:42
+msgid "Subscription"
+msgstr ""
+
+#: class-wplg-subscription-list-table.php:32 class-wplg-subscription.php:45
+msgid "Subscriptions"
+msgstr ""
+
+#: class-wplg-subscription-list-table.php:131
+#, php-format
+msgid "Failed to delete %d subscription. Still existing subscription: %s"
+msgid_plural ""
+"Failed to delete %d subscriptions. Still existing subscriptions: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-wplg-subscription-list-table.php:135
+#, php-format
+msgid "%d subscription deleted. Deleted subscription: %s"
+msgid_plural "%d subscriptions deleted. Deleted subscriptions: %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: class-wplg-subscription.php:24
+msgid "WPLG - Subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:30
+msgid "Thank you for your payment"
+msgstr ""
+
+#: class-wplg-subscription.php:31
+msgid "Payment received"
+msgstr ""
+
+#: class-wplg-subscription.php:32
+msgid ""
+"Dear {user_name}!\n"
+"\tWe would like to let you know that your payment for {product_name} has "
+"been received and your subscription is now activated. You may download your "
+"product by clicking the following link: {item_download_link}"
+msgstr ""
+
+#: class-wplg-subscription.php:46 class-wplg-subscription.php:733
+msgid "New subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:47
+msgid "Settings"
+msgstr "Beállítások"
+
+#: class-wplg-subscription.php:159
+msgid "Purchase details"
+msgstr ""
+
+#: class-wplg-subscription.php:163
+#, php-format
+msgid "Subscription name: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:164 class-wplg-subscription.php:175
+#, php-format
+msgid "Price: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:170
+#, php-format
+msgid "Date of purchase: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:171
+#, php-format
+msgid "Subscription expires: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:180
+#, php-format
+msgid "Payment method: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:182
+#, php-format
+msgid "Subscription status: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:191
+msgid "Customer details"
+msgstr ""
+
+#: class-wplg-subscription.php:192
+#, php-format
+msgid "Customer's name: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:193
+#, php-format
+msgid "Email address: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:194 class-wplg-subscription.php:416
+msgid "Billing details"
+msgstr "Számlázási adatok"
+
+#: class-wplg-subscription.php:209
+msgid "Edit subscription schedule"
+msgstr ""
+
+#: class-wplg-subscription.php:217
+msgid "Edit expiration date"
+msgstr ""
+
+#: class-wplg-subscription.php:221
+msgid "Save changes"
+msgstr ""
+
+#: class-wplg-subscription.php:240
+msgid "Subscription has been deleted"
+msgstr ""
+
+#: class-wplg-subscription.php:242
+msgid "<b>Error!</b> It was not possible to delete the subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:253
+msgid "Are you sure you want to delete this subscription?"
+msgstr ""
+
+#: class-wplg-subscription.php:254 class-wplg-subscription.php:737
+msgid "Confirm"
+msgstr ""
+
+#: class-wplg-subscription.php:277
+#, php-format
+msgid "Subscription updated, new expiral time: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:355
+msgid "Select a customer"
+msgstr ""
+
+#: class-wplg-subscription.php:359
+msgid "Select a product"
+msgstr ""
+
+#: class-wplg-subscription.php:363
+msgid "Subscription status"
+msgstr ""
+
+#: class-wplg-subscription.php:368 class-wplg-subscription.php:857
+msgid "Start date"
+msgstr ""
+
+#: class-wplg-subscription.php:371
+msgid "Expiration date"
+msgstr ""
+
+#: class-wplg-subscription.php:417
+msgid ""
+"Select an user from the dropdown list to populate automatically the fields, "
+"if there are billing informations currently stored for that user"
+msgstr ""
+
+#: class-wplg-subscription.php:419
+msgid "Loading selected user data, please wait..."
+msgstr ""
+
+#: class-wplg-subscription.php:424
+msgid "Create subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:440
+msgid "<b>Wrong data!</b> This user already has purchased this subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:483
+#, php-format
+msgid "<b>Error!</b> Unable to access WooCommerce to add subscription: %s"
+msgstr ""
+
+#: class-wplg-subscription.php:500
+#, php-format
+msgid "Subscription successfully added with order status %s"
+msgstr ""
+
+#: class-wplg-subscription.php:501
+msgid ""
+"<b>Error!</b> It was not possible to update subscription informations with "
+"your data"
+msgstr ""
+
+#: class-wplg-subscription.php:507
+msgid "<b>Error!</b> Subscription and customer ID must be valid!"
+msgstr ""
+
+#: class-wplg-subscription.php:513
+msgid "Add an other subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:558
+msgid "My Subscriptions"
+msgstr ""
+
+#: class-wplg-subscription.php:562
+msgid "File name"
+msgstr ""
+
+#: class-wplg-subscription.php:563
+msgid "Purchase date"
+msgstr ""
+
+#: class-wplg-subscription.php:564 class-wplg-subscription.php:858
+msgid "Expires"
+msgstr ""
+
+#: class-wplg-subscription.php:565 class-wplg-subscription.php:856
+msgid "Renewal price"
+msgstr ""
+
+#: class-wplg-subscription.php:566
+msgid "Actions"
+msgstr ""
+
+#: class-wplg-subscription.php:732
+msgid "Edit subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:735
+msgid "Update subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:738
+msgid "Delete subscription"
+msgstr ""
+
+#: class-wplg-subscription.php:747
+#, php-format
+msgid "Action %s is not recognized"
+msgstr ""
+
+#: class-wplg-subscription.php:785
+msgid "Enable welcome E-mail"
+msgstr ""
+
+#: class-wplg-subscription.php:790
+msgid "E-mail subject"
+msgstr ""
+
+#: class-wplg-subscription.php:795
+msgid "E-mail heading"
+msgstr ""
+
+#: class-wplg-subscription.php:800
+msgid "E-mail content"
+msgstr ""
+
+#: class-wplg-subscription.php:851
+msgid "Subscription ID"
+msgstr ""
+
+#: class-wplg-subscription.php:852
+msgid "Status"
+msgstr ""
+
+#: class-wplg-subscription.php:853
+msgid "Product"
+msgstr ""
+
+#: class-wplg-subscription.php:854
+msgid "Customer"
+msgstr ""
+
+#: class-wplg-subscription.php:855
+msgid "Total"
+msgstr ""
+
+#: class-wplg-subscription.php:867 class-wplg-subscription.php:1072
+msgid "Delete"
+msgstr ""
+
+#: class-wplg-subscription.php:997
+msgid "Show more details"
+msgstr ""
+
+#: class-wplg-subscription.php:1071
+msgid "Edit"
+msgstr ""
+
+#: wplg-subscription.php:64
+msgid "Renewal fee"
+msgstr ""
+
+#: wplg-subscription.php:67
+msgid ""
+"When a customer purchases this product, the regular or sales price will be "
+"charged. Select a renewal fee and a renewal period here. If the license is "
+"not renewed, the customer will no longer have access to the product."
+msgstr ""
+
+#: wplg-subscription.php:75
+msgid "Per"
+msgstr ""
+
+#: wplg-subscription.php:148
+msgid ""
+"The <b>WPLG – Subscription</b> plugin is a WordPress plugin that works with "
+"and extends the functionality of the WooCommerce plugin. It is designed to "
+"create subscription based <b>downloadable products</b> via WooCommerce and "
+"set different renewal price and period for each product."
+msgstr ""
+
+#: wplg-subscription.php:150
+msgid ""
+"To display subscription details to the customer, please add the following "
+"shortcode to your page (preferably into the WooCommerce my-account page): "
+"<b>[wplg_subscription_my_list]</b>"
+msgstr ""
+
+#: wplg-subscription.php:183 wplg-subscription.php:213
+msgid "Active"
+msgstr ""
+
+#: wplg-subscription.php:188
+#, php-format
+msgid "Active <span class=\"count\">(%s)</span>"
+msgid_plural "Active <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: wplg-subscription.php:197
+#, php-format
+msgid "Expired <span class=\"count\">(%s)</span>"
+msgid_plural "Expired <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""

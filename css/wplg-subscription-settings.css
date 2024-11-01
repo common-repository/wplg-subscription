@@ -1,0 +1,70 @@
+.wplg-subscription-options-wrap label { float: left; width: 40%; }
+.wplg-subscription-options-wrap input[type="text"], .wplg-subscription-options-wrap textarea { width: 40%; }
+.wplg-subscription-options-wrap textarea { height: 130px;}
+
+/*
+ * Buttons for download / renew
+*/
+.wplg-subscription-button {
+    display: block;
+    width: 75px;
+    background: gray;
+    padding: 2px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    font-size: 11px;
+}
+
+.wplg-subscription-button:hover { color: white; }
+.wplg-subscription-button:visited { color: white; }
+
+.wplg-subscription-download-button {
+    background: #4E9CAF;
+}
+
+.wplg-subscription-status-wc-expired-subscription {
+    background: red;
+}
+
+.wplg-subscription-renew-button, .wplg-subscription-status-wc-active-subscription {
+    background: green;
+    margin-top: 4px;
+}
+
+#edit-subscription-container {
+    width:100%;
+    text-align:center;
+}
+
+#purchase-details {
+    float:left;
+    width:32%;
+}
+
+#customer-details {
+    display: inline-block;
+    margin:0 auto;
+    width:32%;
+}
+
+#edit-subscription {
+    float:right;
+    width:32%;
+    }
+
+#new-subscription #select_data {
+    max-width: 50%;
+}
+
+#new-subscription #billing_details {
+    max-width: 50%;
+}
+
+#new-subscription label {
+    width: 40%;
+}
+
+#new-subscription input, #new-subscription select {
+    float: right;
+}

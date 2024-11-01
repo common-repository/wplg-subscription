@@ -1,0 +1,29 @@
+.wplg-collapsible-box div { padding: 4px; }
+
+.wplg-collapsible-box {
+    border: 1px solid #e5e5e5;
+    background: white;
+    margin: 4px;
+    max-width: 700px; 
+}
+
+.wplg-collapsible-box-title {
+    background: #eee;
+    border-bottom: 1px solid #e5e5e5;
+    margin: 0;
+    padding: 8px 0;
+    height: 30px;
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wplg-collapsible-box-title button {
+    border-radius: 20px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+    width: 25px;
+    float: right;
+    margin-right: 5px;
+}
